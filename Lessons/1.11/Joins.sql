@@ -8,7 +8,7 @@ on jpf.company_id=cd.company_id;
 
 SELECT
 jpf.job_id,
-jpf.job_country,
+jpf.job_title_short,
 cd.company_id,
 cd.name as CompanyName
 FROM
