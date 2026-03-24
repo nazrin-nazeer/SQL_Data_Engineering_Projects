@@ -11,7 +11,7 @@ The following projects are a collection of SQL Projects that I have worked on to
 ![EDA Project Overview](/Images/1_1_Project1_EDA.png)
 SQL-driven analysis of data engineer job market trends using advanced querying techniques.
 
-**Skills**: Complex joins, aggregations, analytical functions, data quality validation
+<!-- **Skills**: Complex joins, aggregations, analytical functions, data quality validation
 
 ### [2_WH_Mart_Build/](./2_WH_Mart_Build/) - Data Pipeline - Data Warehouse & Mart
 ![Data Pipeline Architecture](/Images/1_2_Project2_Data_Pipeline.png)
@@ -25,4 +25,4 @@ End-to-end ETL pipeline transforming raw CSV files into a star schema data wareh
 
 SQL-driven transformation of flat job posting data into a normalized star schema using DuckDB.
 
-**Skills**: Data transformation, star schema design, ETL pipeline development, production practices
+**Skills**: Data transformation, star schema design, ETL pipeline development, production practices -->
